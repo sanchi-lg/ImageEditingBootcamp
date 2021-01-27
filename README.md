@@ -1,5 +1,4 @@
 # ImageEditingBootcamp
-#  Event Organizer
 
 
 ## Technologies used
@@ -12,7 +11,9 @@
 
 ### About
 There is an online image editing bootcamp having 3 different tracks- Beginner , Intermediate and Advanced.
+<br/>
 A user can register in only one of these tasks.
+<br/>
 The instructor will create image editing tasks for students
 
 ### Features
@@ -22,40 +23,42 @@ The instructor will create image editing tasks for students
 * User will solve task
 * Score Task(Instructor will score the tasks solved by users)
 
-### Demo
+## Demo
 
 
 <p align="center">
   
-  ## Register
+  ### Register
   
 <img src="images/1.JPG" >
   <br/>
   
-  ## Login
+  ### Login
   
   <img src="images/2.JPG" height="70%" width="70%" >
   <br/>
   
-  ## Welcome page(for instructor)
+  ### Welcome page(for instructor)
   
   <img src="images/3.JPG" height="70%" width="70%" >
   <br/>
   
   .
-  ## Add Task
+  ### Add Task
   <img src="images/4.JPG" height="70%" width="70%" >
   <br/>
   
   ## Submit Tasks(for user)
   
   <img src="images/5.JPG" height="70%" width="70%" >
-  <br/>  ## Welcome page(for instructor)
+  <br/> 
+  
   
   ## Score Tasks
   
   <img src="images/6.JPG" height="70%" width="70%" >
   <br/>
+  
   <img src="images/7.JPG" height="70%" width="70%" >
   <br/>
   
