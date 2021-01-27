@@ -28,38 +28,39 @@ The instructor will create image editing tasks for students
 
 <p align="center">
   
-  ### Register
+  #### Register
   
 <img src="images/1.JPG" >
   <br/>
   
-  ### Login
+  #### Login
   
-  <img src="images/2.JPG" height="70%" width="70%" >
+  <img src="images/2.JPG" >
   <br/>
   
-  ### Welcome page(for instructor)
+  #### Welcome page(for instructor)
   
-  <img src="images/3.JPG" height="70%" width="70%" >
+  <img src="images/3.JPG"  >
   <br/>
   
   .
-  ### Add Task
-  <img src="images/4.JPG" height="70%" width="70%" >
+  #### Add Task
+  <img src="images/4.JPG" >
   <br/>
   
-  ## Submit Tasks(for user)
+  #### Submit Tasks(for user)
   
-  <img src="images/5.JPG" height="70%" width="70%" >
+  <img src="images/5.JPG">
   <br/> 
   
   
-  ## Score Tasks
+  #### Score Tasks
   
-  <img src="images/6.JPG" height="70%" width="70%" >
+  <img src="images/6.JPG"  >
+  <br/>
   <br/>
   
-  <img src="images/7.JPG" height="70%" width="70%" >
+  <img src="images/7.JPG"  >
   <br/>
   
 </p>
