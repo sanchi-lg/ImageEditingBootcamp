@@ -9,8 +9,7 @@ let taskModel = require('./db/task')
 
 const bodyParser = require('body-parser')
 const MongoClient = require('mongodb').MongoClient
-const MONGO_URL = "mongodb://localhost/trueimgu"
-const MONGODB_URL = "mongodb://127.0.0.1:27017/r"
+const MONGO_URL = ""
 const PORT = process.env.PORT || 9000
 var fs = require('fs')
 mongoose.connect(MONGO_URL, { useNewUrlParser: true, useUnifiedTopology: true });
