@@ -40,7 +40,7 @@ The instructor will create image editing tasks for students
   
   #### Welcome page(for instructor)
   
-  <img src="images/8.PNG"  >
+  <img src="images/8.PNG" height="200" width="200" >
   <br/>
   
   .
